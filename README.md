@@ -121,8 +121,9 @@ This dashboard can be used by:
 
 ## 📬 Contact
 
-For queries or collaboration, reach out at **shalu.singhcs22@gla.ac.in**
+For queries or collaboration, reach out at **shalu2112singh@gmail.com**
 
 ---
 
 > _“Turning data into actionable insights – one dashboard at a time!”_
+
