@@ -130,6 +130,27 @@ For queries or collaboration, reach out at **shalu2112singh@gmail.com**
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 2.# ⚡ EV Analysis Dashboard | Washington State
 
 This interactive Tableau dashboard provides deep insights into the electric vehicle (EV) landscape in Washington. It analyzes trends by vehicle type, manufacturer, ownership location, and model year. The data is visualized to help stakeholders understand EV adoption patterns and regional concentration.
